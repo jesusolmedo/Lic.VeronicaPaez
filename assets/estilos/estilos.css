@@ -51,4 +51,5 @@ footer{
     background-color: #f0ffffd9;
     margin-left: 5%;
     margin-right: 5%;
+    flex-wrap:  nowrap;
 }
